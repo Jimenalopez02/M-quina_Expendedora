@@ -1,2 +1,2 @@
-# M-quina_Expendedora
+# Maquina_Expendedora
 Trabajo Asignatura SED de una máquina expendedora
